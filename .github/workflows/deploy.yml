@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - main # Remove paths
+      - "index.html"
 
 permissions:
   contents: read
