@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "index.html"  # Only trigger when index.html is changed
+      - main # Remove paths
 
 permissions:
   contents: read
